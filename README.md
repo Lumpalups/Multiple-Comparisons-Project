@@ -1,0 +1,1 @@
+Developed alternatives for multiple comparisons, including the Scheffé test and False Discovery Rate. Explored diverse applications, ranging from variable selection to mathematical models and null hypothesis analysis, investigating multiple comparison techniques and the False Discovery Rate (FDR).
